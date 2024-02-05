@@ -1,0 +1,15 @@
+收缩：
+控制chi（地）的Position.x -0.036 -> 0
+控制ten（天）的Position.x 0.036 -> 0
+
+变红：
+控制chi（地）的Scale.z 1 -> 0
+控制ten（天）的Scale.z 1 -> 0
+
+43. 44. 食管口
+163. 164. 贲门
+
+可以通过代码实现
+或者通过Animater与Animation Event
+
+警告！左右食道需要同时开闭！
