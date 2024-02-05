@@ -1,0 +1,1 @@
+Download and install the plugin from http://stereoarts.jp/
